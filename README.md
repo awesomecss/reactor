@@ -2,6 +2,8 @@
 
 > A simple way to include CSS with React Components.
 
+## Note: Work has moved over to [@helpscout/fancy](https://github.com/helpscout/fancy).
+
 * **Tiny**, at less than 850 bytes gzipped
 * **Only one dependency - ([Stylis](https://github.com/thysultan/stylis.js))**
 * **Write plain ol' CSS.** Period.
